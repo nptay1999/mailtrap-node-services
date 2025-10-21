@@ -1,0 +1,510 @@
+<!-- truckloads-wex-factoring-signup  -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!DOCTYPE html>
+<html
+  xmlns="http://www.w3.org/1999/xhtml"
+  xmlns:v="urn:schemas-microsoft-com:vml"
+  xmlns:o="urn:schemas-microsoft-com:office:office"
+>
+  <head>
+    <!-- This is a simple example template that you can edit to create your own custom templates -->
+
+    <!--[if gte mso 15]>
+      <xml>
+        <o:OfficeDocumentSettings>
+          <o:AllowPNG />
+          <o:PixelsPerInch>96</o:PixelsPerInch>
+        </o:OfficeDocumentSettings>
+      </xml>
+    <![endif]-->
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title></title>
+
+    <style type="text/css">
+      body {
+        font-family: -apple-system, BlinkMacSystemFont, "PingFang SC",
+          "Helvetica Neue", STHeiti, "Microsoft Yahei", Tahoma, Simsun,
+          sans-serif;
+      }
+      p {
+        margin: 0;
+        padding: 0;
+      }
+      table {
+        border-collapse: collapse;
+        mso-table-lspace: 0pt;
+        mso-table-rspace: 0pt;
+      }
+      h1,
+      h2,
+      h3,
+      h4,
+      h5,
+      h6 {
+        display: block;
+        margin: 0;
+        padding: 0;
+      }
+      img,
+      a img {
+        border: 0;
+        height: auto;
+        outline: none;
+        text-decoration: none;
+      }
+      body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+        width: 100%;
+        background-color: #fff;
+      }
+      img {
+        -ms-interpolation-mode: bicubic;
+      }
+      p,
+      a,
+      li,
+      td,
+      blockquote {
+        mso-line-height-rule: exactly;
+      }
+      a[href^="tel"],
+      a[href^="sms"] {
+        color: inherit;
+        cursor: default;
+        text-decoration: none;
+      }
+      p,
+      a,
+      li,
+      td,
+      body,
+      table,
+      blockquote {
+        -ms-text-size-adjust: 100%;
+        -webkit-text-size-adjust: 100%;
+      }
+      a[x-apple-data-detectors] {
+        color: inherit !important;
+        text-decoration: none !important;
+        font-size: inherit !important;
+        font-family: inherit !important;
+        font-weight: inherit !important;
+        line-height: inherit !important;
+      }
+      @media only screen and (max-width: 500px) {
+        body,
+        table,
+        td,
+        p,
+        a,
+        li,
+        blockquote {
+          -webkit-text-size-adjust: none !important;
+        }
+        body {
+          width: 100% !important;
+          min-width: 100% !important;
+        }
+      }
+      ul {
+        display: block;
+        list-style-type: disc;
+        margin-block-start: 0;
+        margin-block-end: 0;
+        margin-inline-start: 0;
+        margin-inline-end: 0;
+        padding-inline-start: 0;
+      }
+      a {
+        color: #4066d4;
+        text-decoration: none !important;
+      }
+    </style>
+  </head>
+
+  <body>
+    <center>
+      <table
+        align="center"
+        border="0"
+        cellpadding="0"
+        cellspacing="0"
+        height="100%"
+        width="100%"
+        style="height: 100%; margin: 0; padding: 0; width: 100%"
+      >
+        <tr>
+          <td
+            align="center"
+            valign="top"
+            style="
+              height: 100%;
+              margin: 0;
+              padding: 0;
+              width: 100%;
+              padding-right: 3vw;
+              padding-left: 3vw;
+              padding-bottom: 3vh;
+            "
+          >
+            <table
+              border="0"
+              cellpadding="0"
+              cellspacing="0"
+              width="100%"
+              style="max-width: 600px !important"
+            >
+              <tr>
+                <td
+                  valign="top"
+                  style="
+                    padding-top: 30px;
+                    padding-bottom: 30px;
+                    padding-left: 24px;
+                    padding-right: 24px;
+                    background-color: #f0f2f5;
+                  "
+                >
+                  <!-- BEGIN MODULE: STANDARD PREHEADER // -->
+                  <table
+                    border="0"
+                    cellpadding="0"
+                    cellspacing="0"
+                    width="100%"
+                  >
+                    <tr>
+                      <td valign="top">
+                        <!--[if mso]>
+                                  <table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
+                                  <tr>
+                                  <td valign="top" width="384" style="width:384px;">
+                                  <![endif]-->
+                        <table
+                          align="left"
+                          border="0"
+                          cellpadding="0"
+                          cellspacing="0"
+                          width="100%"
+                        >
+                          <tr>
+                            <td valign="top">
+                              <div mc:edit="preheader_leftcol_content">
+                                <img
+                                  src="http://dqoislk9v1t0x.cloudfront.net/img/2020-12-03/fUZXLsWgwgXSGgEH.png"
+                                  alt="Trucker Path"
+                                  style="height: 36px"
+                                />
+                              </div>
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+                  <!-- // END MODULE: STANDARD PREHEADER -->
+                </td>
+              </tr>
+              <tr>
+                <td
+                  valign="top"
+                  style="
+                    background-color: #ffffff;
+                    border-radius: 2px;
+                    padding-left: 24px;
+                    padding-right: 24px;
+                    padding-top: 20px;
+                    padding-bottom: 20px;
+                    font-family: 'Open Sans', -apple-system, BlinkMacSystemFont,
+                      'PingFang SC', 'Helvetica Neue', Tahoma, sans-serif;
+                  "
+                >
+                  <table
+                    border="0"
+                    cellpadding="0"
+                    cellspacing="0"
+                    width="100%"
+                  >
+                    <tr>
+                      <td
+                        valign="top"
+                        style="
+                          padding-bottom: 18px;
+                          font-weight: normal;
+                          letter-spacing: normal;
+                          color: #000000;
+                          font-size: 14px;
+                          line-height: 24px;
+                        "
+                      >
+                        <span>Hi <span>$map.firstName</span>,</span>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td
+                        valign="top"
+                        style="
+                          padding-bottom: 18px;
+                          font-weight: normal;
+                          letter-spacing: normal;
+                          color: #000000;
+                          font-size: 14px;
+                          line-height: 24px;
+                        "
+                      >
+                        <span
+                          >We've partnered with <strong>WEX</strong> so you can
+                          turn delivered loads into working capital —
+                          fast.</span
+                        >
+                      </td>
+                    </tr>
+                    <tr>
+                      <td
+                        valign="top"
+                        style="
+                          padding-bottom: 8px;
+                          font-size: 14px;
+                          line-height: 24px;
+                          font-weight: normal;
+                          color: #000;
+                        "
+                      >
+                        <span>What you get:</span>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td valign="top" style="padding-bottom: 18px">
+                        <ul style="padding-left: 20px; margin: 0">
+                          <li
+                            style="
+                              font-weight: normal;
+                              font-size: 14px;
+                              line-height: 24px;
+                              color: #000;
+                            "
+                          >
+                            Fast funding on approved invoices
+                          </li>
+                          <li
+                            style="
+                              font-weight: normal;
+                              font-size: 14px;
+                              line-height: 24px;
+                              color: #000;
+                            "
+                          >
+                            Clear, transparent terms from a trusted provider
+                          </li>
+                          <li
+                            style="
+                              font-weight: normal;
+                              font-size: 14px;
+                              line-height: 24px;
+                              color: #000;
+                            "
+                          >
+                            Keep trucks moving: fuel, repairs, payroll
+                          </li>
+                          <li
+                            style="
+                              font-weight: normal;
+                              font-size: 14px;
+                              line-height: 24px;
+                              color: #000;
+                            "
+                          >
+                            Bonus: Free TL Professional after approval
+                          </li>
+                        </ul>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td
+                        valign="top"
+                        style="
+                          padding-bottom: 8px;
+                          font-size: 14px;
+                          line-height: 24px;
+                          font-weight: normal;
+                          color: #000;
+                        "
+                      >
+                        <span>What it takes?</span>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td
+                        valign="top"
+                        style="
+                          padding-bottom: 18px;
+                          font-weight: normal;
+                          letter-spacing: normal;
+                          color: #000000;
+                          font-size: 14px;
+                          line-height: 24px;
+                        "
+                      >
+                        <ul style="padding-left: 20px; margin: 0">
+                          <li
+                            style="
+                              font-weight: normal;
+                              font-size: 14px;
+                              line-height: 24px;
+                              color: #000;
+                            "
+                          >
+                            A secure application that typically takes a few
+                            minutes to complete
+                          </li>
+                        </ul>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td
+                        valign="top"
+                        align="center"
+                        style="padding-bottom: 20px"
+                      >
+                        <a
+                          href="$map.leadFormUrl"
+                          style="
+                            display: inline-block;
+                            text-decoration: none;
+                            padding-top: 10px;
+                            padding-bottom: 10px;
+                            padding-left: 20px;
+                            padding-right: 20px;
+                            line-height: 1;
+                            font-size: 14px;
+                            font-weight: 700;
+                            color: #ffffff;
+                            border-width: 0px;
+                            border-radius: 4px;
+                            border-style: solid;
+                            background-color: #007fba;
+                            font-family: 'SF Pro Text', -apple-system,
+                              BlinkMacSystemFont, 'PingFang SC',
+                              'Helvetica Neue', Tahoma, sans-serif;
+                          "
+                          >Start WEX Factoring Application</a
+                        >
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+              <tr>
+                <td
+                  style="
+                    background-color: #f0f2f5;
+                    font-family: Arial, -apple-system, BlinkMacSystemFont,
+                      'PingFang SC', 'Helvetica Neue', Tahoma, sans-serif;
+                  "
+                >
+                  <table
+                    border="0"
+                    cellpadding="0"
+                    cellspacing="0"
+                    width="100%"
+                  >
+                    <tbody>
+                      <tr>
+                        <td
+                          valign="top"
+                          style="
+                            padding-left: 24px;
+                            padding-right: 24px;
+                            padding-top: 14px;
+                            padding-bottom: 5px;
+                            text-align: center;
+                          "
+                        >
+                          <a
+                            href="$map.urlUnsubscribe"
+                            style="
+                              line-height: 20px;
+                              font-size: 12px;
+                              color: #a1a3b3;
+                              font-weight: 400;
+                              text-decoration: none !important;
+                            "
+                            >Unsubscribe Email</a
+                          >
+                        </td>
+                      </tr>
+                      <tr>
+                        <td
+                          valign="top"
+                          style="
+                            padding-left: 24px;
+                            padding-right: 24px;
+                            padding-bottom: 5px;
+                            font-weight: 400;
+                            font-size: 12px;
+                            line-height: 20px;
+                            text-align: center;
+                            color: #141a42;
+                          "
+                        >
+                          <span
+                            >Copyright © 2025 Trucker Path Inc, All rights
+                            reserved.</span
+                          >
+                        </td>
+                      </tr>
+                      <tr>
+                        <td
+                          valign="top"
+                          style="
+                            padding-left: 24px;
+                            padding-right: 24px;
+                            padding-bottom: 5px;
+                            font-weight: 400;
+                            font-size: 12px;
+                            line-height: 20px;
+                            text-align: center;
+                            color: #141a42;
+                          "
+                        >
+                          <span
+                            >Support Email:
+                            <a
+                              href="mailto:support@truckerpath.com"
+                              style="color: #005ee9"
+                              >support@truckerpath.com</a
+                            ></span
+                          >
+                        </td>
+                      </tr>
+                      <tr>
+                        <td
+                          valign="top"
+                          style="
+                            padding-left: 24px;
+                            padding-right: 24px;
+                            padding-bottom: 24px;
+                            font-weight: 400;
+                            font-size: 12px;
+                            line-height: 20px;
+                            text-align: center;
+                            color: #141a42;
+                          "
+                        >
+                          <span>Address: 40 W Buchanan, Phoenix, AZ 85003</span>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </center>
+  </body>
+</html>
