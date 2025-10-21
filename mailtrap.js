@@ -1,4 +1,4 @@
-const { MailtrapClient } = require("mailtrap");
+import { MailtrapClient } from "mailtrap";
 
 const TOKEN = process.env.MAILTRAP_TOKEN;
 
@@ -16,7 +16,7 @@ const recipients = [
   },
 ];
 
-function sendMail(template) {
+export function sendMail(template) {
   client
     .send({
       from: sender,
@@ -28,5 +28,3 @@ function sendMail(template) {
     .then(console.log, console.error)
     .catch(console.error);
 }
-
-module.exports = { sendMail };

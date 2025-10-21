@@ -1,10 +1,9 @@
-"use strict";
-require("dotenv").config();
-const { render } = require("velocityjs");
-const fs = require("fs");
-const { sendMail } = require("./mailtrap.js");
+import "dotenv/config";
+import { render } from "velocityjs";
+import { readFileSync } from "fs";
+import { sendMail } from "./mailtrap.js";
 
-const template = fs.readFileSync("./templates/emailNewSignUp.vm", "utf-8");
+const template = readFileSync("./templates/emailNewSignUp.vm", "utf-8");
 const data = {
   map: {
     firstName: "Tay",
