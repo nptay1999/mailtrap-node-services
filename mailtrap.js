@@ -1,30 +1,55 @@
 import { MailtrapClient } from "mailtrap";
 
-const TOKEN = process.env.MAILTRAP_TOKEN;
+class MailtrapServices {
+  static instance = null;
 
-const client = new MailtrapClient({
-  token: TOKEN,
-});
+  constructor() {
+    if (MailtrapServices.instance) {
+      return MailtrapServices.instance;
+    }
 
-const sender = {
-  email: "hello@demomailtrap.com",
-  name: "Mailtrap Test",
-};
-const recipients = [
-  {
-    email: "ngudai999@gmail.com",
-  },
-];
+    this.client = new MailtrapClient({
+      token: process.env.MAILTRAP_TOKEN,
+    });
 
-export function sendMail(template) {
-  client
-    .send({
-      from: sender,
-      to: recipients,
-      subject: "You are awesome!",
-      html: template,
-      category: "Wex",
-    })
-    .then(console.log, console.error)
-    .catch(console.error);
+    this.defaultSender = {
+      email: "hello@demomailtrap.com",
+      name: "Mailtrap Test",
+    };
+
+    this.defaultRecipients = [
+      {
+        email: "ngudai999@gmail.com",
+      },
+    ];
+
+    MailtrapServices.instance = this;
+  }
+
+  async sendMail({
+    html,
+    subject = "You are awesome!",
+    category = "Wex",
+    sender = this.defaultSender,
+    recipients = this.defaultRecipients,
+  }) {
+    try {
+      const result = await this.client.send({
+        from: sender,
+        to: recipients,
+        subject,
+        html,
+        category,
+      });
+      console.log(result);
+      return result;
+    } catch (error) {
+      console.error(error);
+      throw error;
+    }
+  }
 }
+
+// Export a single instance
+const mailtrapServices = new MailtrapServices();
+export default mailtrapServices;

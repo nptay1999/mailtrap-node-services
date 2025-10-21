@@ -1,7 +1,7 @@
 import "dotenv/config";
 import { render } from "velocityjs";
 import { readFileSync } from "fs";
-import { sendMail } from "./mailtrap.js";
+import mailtrapServices from "./mailtrap.js";
 
 const template = readFileSync("./templates/emailNewSignUp.vm", "utf-8");
 const data = {
@@ -14,4 +14,4 @@ const data = {
 
 const html = render(template, data);
 
-sendMail(html);
+mailtrapServices.sendMail({ html });
